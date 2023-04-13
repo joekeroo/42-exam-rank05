@@ -6,7 +6,7 @@
 /*   By: jhii <jhii@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/13 19:30:34 by jhii              #+#    #+#             */
-/*   Updated: 2023/04/13 20:10:22 by jhii             ###   ########.fr       */
+/*   Updated: 2023/04/13 21:35:27 by jhii             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ class ATarget
 	public:
 		ATarget(const std::string &type);
 		ATarget(const ATarget &ref);
-		~ATarget(void);
+		virtual ~ATarget(void);
 
 		ATarget &operator=(const ATarget &ref);
 

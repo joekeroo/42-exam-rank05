@@ -6,7 +6,7 @@
 /*   By: jhii <jhii@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/04/13 19:15:49 by jhii              #+#    #+#             */
-/*   Updated: 2023/04/13 19:45:24 by jhii             ###   ########.fr       */
+/*   Updated: 2023/04/13 21:35:17 by jhii             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,7 +24,7 @@ class ASpell
 	public:
 		ASpell(const std::string &name, const std::string &effects);
 		ASpell(const ASpell &ref);
-		~ASpell(void);
+		virtual ~ASpell(void);
 
 		ASpell &operator=(const ASpell &ref);
 
