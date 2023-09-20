@@ -116,6 +116,4 @@ It will have the following functions:
 
 # Srcs
 
-you can look at the more detailed subject requirements in the subject folder.
-
-- [subject](subject/)
+a more detailed project requirement can be found in the [subject](subject/) folder.
