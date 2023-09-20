@@ -1,6 +1,6 @@
 # 42KL-Exam-Rank05
 
-mini version of the 42 project 'cpp04 : materia'.
+mini version of the 42 project [cpp04](https://github.com/joekeroo/42KL-cpp/tree/master/cpp04).
 
 this exam is to test your knowledge on cpp encapsulation, inheritance and polymorphism.
 
