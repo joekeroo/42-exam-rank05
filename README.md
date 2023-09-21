@@ -1,4 +1,4 @@
-# 42KL-Exam-Rank05
+# 42-Exam-Rank05
 
 mini version of the 42 project [cpp04](https://github.com/joekeroo/42KL-cpp/tree/master/cpp04).
 
